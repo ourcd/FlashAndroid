@@ -1,7 +1,7 @@
 FlashAndroid
 ============
 
-use flash api style to do android
+use android java to rewrite flash api
 
 PS:
 ============
